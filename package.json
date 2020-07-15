@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cfayard/npm-demo#readme",
   "dependencies": {
+    "mongoose": "^5.9.24",
     "underscore": "^1.10.2"
   }
 }
