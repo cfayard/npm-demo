@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cfayard/npm-demo#readme",
   "dependencies": {
+    "casey-fayard": "^1.1.0",
     "underscore": "^1.10.2"
   },
   "devDependencies": {
